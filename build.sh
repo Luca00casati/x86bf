@@ -1,1 +1,1 @@
-gcc -S -Os -fverbose-asm -o main.as main.c 
+gcc -S -Os -fverbose-asm -o main.s main.c 
